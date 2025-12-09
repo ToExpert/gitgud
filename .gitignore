@@ -1,0 +1,29 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE and Editor files
+.vscode
+.idea
+*.vscode
+*.idea
+
+# Build and Compile files
+*.class
+*.exe
+*.o
+*.so
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Other
+node_modules/
+__pycache__/
